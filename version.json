@@ -1,6 +1,8 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0",
-  "apkUrl": "https://github.com/asif7z7s/HLITest-releases/releases/download/v1.0.0/app-release.apk",
-  "changelog": "First release"
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "apkUrl": "https://github.com/asif7z7s/HLITest-releases/releases/download/v1.1.0/app-release.apk",
+  "minRequiredVersionCode": 1,
+  "forceUpdate": true,
+  "message": "A new version is available. Please update to continue."
 }
