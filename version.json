@@ -1,5 +1,5 @@
 {
-  "minRequiredVersionCode": 3,
+  "minRequiredVersionCode": 4,
   "apkUrl": "https://github.com/asif7z7s/HLITest-releases/releases/download/v1.0.0/app-release.apk",
   "message": "Test update. Tap Update Now to continue."
 }
